@@ -4,7 +4,7 @@ let todoList = [
     dueDate: '4/10/2023'
   },
   {
-    item: 'Go to College',
+    item: 'WENT to College',
     dueDate: '4/10/2023'
   }
 ];
